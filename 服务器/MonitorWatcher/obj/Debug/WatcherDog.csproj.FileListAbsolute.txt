@@ -1,0 +1,10 @@
+C:\Users\LQQ\Desktop\对622最终版的修改版\SuperMonit-原版\MonitorWatcher\bin\Debug\MonitorWatcher.exe.config
+C:\Users\LQQ\Desktop\对622最终版的修改版\SuperMonit-原版\MonitorWatcher\bin\Debug\MonitorWatcher.exe
+C:\Users\LQQ\Desktop\对622最终版的修改版\SuperMonit-原版\MonitorWatcher\bin\Debug\MonitorWatcher.pdb
+C:\Users\LQQ\Desktop\对622最终版的修改版\SuperMonit-原版\MonitorWatcher\obj\Debug\WatcherDog.csprojResolveAssemblyReference.cache
+C:\Users\LQQ\Desktop\对622最终版的修改版\SuperMonit-原版\MonitorWatcher\obj\Debug\MonitorWatcher.Form1.resources
+C:\Users\LQQ\Desktop\对622最终版的修改版\SuperMonit-原版\MonitorWatcher\obj\Debug\MonitorWatcher.Properties.Resources.resources
+C:\Users\LQQ\Desktop\对622最终版的修改版\SuperMonit-原版\MonitorWatcher\obj\Debug\WatcherDog.csproj.GenerateResource.Cache
+C:\Users\LQQ\Desktop\对622最终版的修改版\SuperMonit-原版\MonitorWatcher\obj\Debug\MonitorWatcher.exe
+C:\Users\LQQ\Desktop\对622最终版的修改版\SuperMonit-原版\MonitorWatcher\obj\Debug\MonitorWatcher.pdb
+C:\Users\LQQ\Desktop\对622最终版的修改版\SuperMonit-原版\MonitorWatcher\obj\Debug\WatcherDog.Form1.resources
