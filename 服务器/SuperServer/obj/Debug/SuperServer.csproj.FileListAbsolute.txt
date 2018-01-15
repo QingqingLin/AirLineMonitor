@@ -91,3 +91,12 @@ C:\Users\LQQ\Desktop\第二次去南京安装\在南京晚上修改的客户端�
 C:\Users\LQQ\Desktop\第二次去南京安装\在南京晚上修改的客户端服务器（南京安装最终版）\SuperServer（备用）加守护进程\SuperServer\obj\Debug\SuperServer.MainForm.resources
 C:\Users\LQQ\Desktop\第二次去南京安装\在南京晚上修改的客户端服务器（南京安装最终版）\SuperServer（备用）加守护进程\SuperServer\obj\Debug\SuperServer.Properties.Resources.resources
 C:\Users\LQQ\Desktop\第二次去南京安装\在南京晚上修改的客户端服务器（南京安装最终版）\SuperServer（备用）加守护进程\SuperServer\obj\Debug\SuperServer.csproj.GenerateResource.Cache
+C:\Users\Qing\Desktop\AirLineMonitor\服务器\SuperServer\bin\Debug\SuperServer.exe.config
+C:\Users\Qing\Desktop\AirLineMonitor\服务器\SuperServer\obj\Debug\SuperServer.exe
+C:\Users\Qing\Desktop\AirLineMonitor\服务器\SuperServer\obj\Debug\SuperServer.pdb
+C:\Users\Qing\Desktop\AirLineMonitor\服务器\SuperServer\bin\Debug\SuperServer.exe
+C:\Users\Qing\Desktop\AirLineMonitor\服务器\SuperServer\bin\Debug\SuperServer.pdb
+C:\Users\Qing\Desktop\AirLineMonitor\服务器\SuperServer\obj\Debug\SuperServer.csprojResolveAssemblyReference.cache
+C:\Users\Qing\Desktop\AirLineMonitor\服务器\SuperServer\obj\Debug\SuperServer.MainForm.resources
+C:\Users\Qing\Desktop\AirLineMonitor\服务器\SuperServer\obj\Debug\SuperServer.Properties.Resources.resources
+C:\Users\Qing\Desktop\AirLineMonitor\服务器\SuperServer\obj\Debug\SuperServer.csproj.GenerateResource.Cache
